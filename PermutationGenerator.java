@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class PermutationGenerator
 {
    private String word;
+   int permutationCounter=0;
 
    /**
       Constructs a permutation generator.
